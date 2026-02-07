@@ -1,0 +1,1 @@
+# scrollpause-privacy
